@@ -8,10 +8,15 @@ About Me
 
 
 🎓 Final-year B.Tech CSE student at Sri Venkateshwaraa College of Engineering and Technology, Pondicherry
+
 🧠 Interested in AI, Computer Vision, and NLP-driven applications
+
 📊 Completed Data Science & Visualization with Python (MSME-TC Puducherry)
+
 ⚙️ Built 100+ frontend projects while learning to balance design, logic, and user experience
+
 📷 Freelance photographer and designer — creativity keeps me balanced
+
 💬 I enjoy projects that challenge both my technical and creative sides
 
 Tech Stack
